@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeekdayProject</string>
+    <string name="appwidget_text">桌面小部件</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+</resources>
